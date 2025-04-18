@@ -1,1 +1,1 @@
-# baton-plugin
+# Baton Settings
