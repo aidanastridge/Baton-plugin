@@ -1,1 +1,1 @@
-# Baton Settings
+# Baton Plugin
